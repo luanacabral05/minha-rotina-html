@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: hsla(258, 87%, 46%, 0.479);
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    margin: 10px 0;
+    color: #080808;
+}
+
+a {
+    color: #026800;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+b {
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+video, audio {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
+
+i {
+    font-style: italic;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #5e0101cf;
+}
